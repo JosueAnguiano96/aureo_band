@@ -1,0 +1,68 @@
+{
+    "Home": [{
+        "id":"1", 
+        "src":"../imagenes/todos.jpeg", 
+        "titulo":"Áureo1", 
+        "texto":"Áureo es una banda de rock alternativo originaria de Saltillo Coahuila en 2018. Con las personas indicadas nos agrupamos como banda, con el fin de hacer que nuestros escuchas disfruten de nuestra música propia y compartir con ellos lo que más amamos"
+    },
+    {
+        "id":"2", 
+        "src":"../imagenes/todos2.jpg", 
+        "titulo":"Áureo2", 
+        "texto":"Áureo es una banda de rock alternativo originaria de Saltillo Coahuila en 2018. Con las personas indicadas nos agrupamos como banda, con el fin de hacer que nuestros escuchas disfruten de nuestra música propia y compartir con ellos lo que más amamos"
+    },
+    {
+        "id":"3", 
+        "src":"../imagenes/todos3.jpg", 
+        "titulo":"Áureo3", 
+        "texto":"Áureo es una banda de rock alternativo originaria de Saltillo Coahuila en 2018. Con las personas indicadas nos agrupamos como banda, con el fin de hacer que nuestros escuchas disfruten de nuestra música propia y compartir con ellos lo que más amamos"
+    }],
+    "Integrantes": [
+        {
+            "id":"1",
+            "nombre":"Jorge Jimenez",
+            "rol":"Voz y primera guitarra"
+        },
+        {
+            "id":"2",
+            "nombre":"Carlos López",
+            "rol":"Segunda guitarra"
+        },
+        {
+            "id":"3",
+            "nombre":"Alfredo Reyes",
+            "rol":"Batería"
+        },
+        {
+            "id":"4",
+            "nombre":"Carlos Duarte",
+            "rol":"Bajo"
+        }
+    ],
+    "Merch": [
+        {
+            "id": "1",
+            "tipoMerch": "Taza",
+            "precio": 120,
+            "imagen": "https://scontent.fslw1-1.fna.fbcdn.net/v/t1.6435-9/158438417_3915921058514852_8851959000392008155_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFv-4CrqI6fPr6rpMnHY2b_z9QRxWBe7BLP1BHFYF7sEgnZgu_vJj2I5XIgP9xYsG4&_nc_ohc=MfdjbDnDy-kAX-XYeI7&_nc_ht=scontent.fslw1-1.fna&oh=4a6be7d2876cd195cff962cb19f112e5&oe=60B7DEFB"
+        },   
+        {
+            "id": "2",
+            "tipoMerch": "Playera",
+            "precio": 150,
+            "imagen": "https://scontent.fslw1-1.fna.fbcdn.net/v/t1.6435-9/81890211_2821604014613234_7944588001697333248_n.png?_nc_cat=108&ccb=1-3&_nc_sid=174925&_nc_eui2=AeGJfE39vUrGXs4V3rGae2TIU2N8rk10J_pTY3yuTXQn-vGLb3eiFixaE4DAgj8yI-k&_nc_ohc=4Fm2M1yQ538AX87VQPJ&_nc_ht=scontent.fslw1-1.fna&oh=7baa6c13d434765e2216b93a803bb9ea&oe=60B4F19A"
+        },   
+        {
+            "id": "3",
+            "tipoMerch": "Gorra",
+            "precio": 200,
+            "imagen": "https://scontent.fslw1-1.fna.fbcdn.net/v/t1.6435-9/101543210_3157090304397935_1941134770352160768_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=174925&_nc_eui2=AeEKOhj7-9arUudv9J-PNGcBVuHN0kFnCTVW4c3SQWcJNWmAshuaeke8r_6bKzy2a-o&_nc_ohc=uRQ4OG2tGF8AX-qiWM2&_nc_ht=scontent.fslw1-1.fna&oh=fa21ecc3bde7bfc13d87c5af9366200e&oe=60B50226"
+        },   
+        {
+            "id": "4",
+            "tipoMerch": "Termo",
+            "precio": 250,
+            "imagen": "https://scontent.fslw1-1.fna.fbcdn.net/v/t1.6435-9/119234864_3444640845642878_4667102710816018030_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=174925&_nc_eui2=AeEiyCtr6ObCy2nGOpwGg2CTnbxIt1a4OhOdvEi3Vrg6E3RhlB27UtJvkpyvpt-95MQ&_nc_ohc=m-ugRwAES5MAX9NVPJh&_nc_ht=scontent.fslw1-1.fna&oh=d741c6a8bc84f9cb53b8f283ac5de4fc&oe=60B7918E"
+        }   
+    ]
+}
