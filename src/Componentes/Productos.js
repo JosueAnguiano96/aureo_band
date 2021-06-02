@@ -56,6 +56,7 @@ const DivDeProducto = styled.div`
 
  const ImagenProducto = styled.img`
     max-width: 12rem;
+    height: 8rem;
  `;
 
 const ContenedorInfoProducto = styled.div`

@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import styled from 'styled-components';
 import {ContenedorBoton, Formulario, Input} from './../elementos/ElementosDeFormulario';
 import {Boton} from './../elementos/Boton';
-import {ReactComponent as IconoEnviar} from './../iconos/enviar.svg'
+import {ReactComponent as IconoIniciar} from './../iconos/iniciar.svg'
 import {useHistory} from 'react-router-dom';
 import {auth} from './../firebase/firebaseConfig';
 import Alerta from './../elementos/Alerta'
@@ -104,7 +104,7 @@ const InicioSesion = () => {
                     />
                     <ContenedorBoton>
                         <Boton as="button" primario="true" conIcono="true" type="submit">
-                            Enviar Mensaje <IconoEnviar />
+                            Iniciar sesión <IconoIniciar />
                         </Boton>
                     </ContenedorBoton>
                 </div>

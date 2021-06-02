@@ -24,7 +24,7 @@ const Footer = () => {
                         <p>Nuestras redes sociales</p>
                         <BotonLinkExterno soloIcono="true" >
                             <a
-                                href="https://www.facebook.com/aureoband"
+                                href="https://www.instagram.com/aureoband"
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -42,7 +42,7 @@ const Footer = () => {
                         </BotonLinkExterno>
                         <BotonLinkExterno soloIcono="true">
                             <a
-                                href="https://www.facebook.com/aureoband"
+                                href="https://www.youtube.com/channel/UCcJDDzoOOHDOgOxauZcnWBg"
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -51,7 +51,7 @@ const Footer = () => {
                         </BotonLinkExterno>
                         <BotonLinkExterno soloIcono="true">
                             <a
-                                href="https://www.facebook.com/aureoband"
+                                href="https://open.spotify.com/artist/0rkZmIiGZ5kG1L0VT8gFZ3?si=iVBXeihISkib3Lx4Lgh9WQ"
                                 target="_blank"
                                 rel="noreferrer"
                             >

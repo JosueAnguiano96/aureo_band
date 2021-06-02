@@ -1,9 +1,7 @@
 import { useState, useEffect } from 'react';
 import {db} from './../firebase/firebaseConfig';
-import {useAuth} from './../contextos/AuthContext';
 
 const useObtenerPedidos = () => {
-    const {usuario} = useAuth();
     const [merch, setMerch] = useState([]);
 
     //esto es para que se ejecute sola 1 vez no cada vez que se cargue la pagina

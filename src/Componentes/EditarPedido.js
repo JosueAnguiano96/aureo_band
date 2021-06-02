@@ -1,5 +1,5 @@
 import React from 'react';
-import {useParams, Redirect} from 'react-router-dom';
+import {useParams} from 'react-router-dom';
 import FormularioEditarPedido from './../Componentes/FormularioEditarPedido'
 import useObtenerPedido from './../hooks/useObtenerPedido'
 import TituloDeSeccion from './../elementos/TituloDeSeccion'

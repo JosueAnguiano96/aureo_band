@@ -1,6 +1,6 @@
 import React, {useEffect} from "react";
 import {Carousel} from 'react-bootstrap'
-import todos from './imagenes/todos.jpeg';
+import todos from './imagenes/todos.jpg';
 import todos2 from './imagenes/todos2.jpg';
 import todos3 from './imagenes/todos3.jpg';
 import './css/home.css';
@@ -46,9 +46,9 @@ const App = () => {
 
       <BannerNuevoSencillo>
           <Contenedor>
-              <h1 data-aos="fade-left">¡Nuevo Sencillo!</h1>
-              <h1 data-aos="fade-left"> "Te amo” disponible tambien en Spotify.</h1>
-            <ContenedorBoton data-aos="fade-right">
+              <h1 data-aos="fade-up">¡Nuevo Sencillo!</h1>
+              <h1 data-aos="fade-up"> "Te amo” disponible también en Spotify.</h1>
+            <ContenedorBoton data-aos="fade-down">
                 <BotonLinkExterno as="button" primario="true" conIcono="true">
                   <a 
                     href="https://open.spotify.com/track/1M3TW88gP8FmidrdGvsh4W?si=vhohkTBwQaWPGNyWMiHb9w"
@@ -97,17 +97,16 @@ const Titulo = styled.div`
 
 
   @media (max-width: 480px) {
-    top:-15vh;
+    top:-19vh;
     font-size: 50px;
   }
 
   @media (max-width: 768px) { //ver como acomodar todo en moviles
-    top:-12vh;
+    top:-15vh;
     font-size: 50px;
 
     h1{
       font-size: 6rem;
-      color: red;
     }
   }
   
